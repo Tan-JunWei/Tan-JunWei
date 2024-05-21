@@ -2,6 +2,10 @@
   <img src="https://github.com/Tan-JunWei/Tan-JunWei/assets/154392299/fc88d3ee-d2ba-475b-8f4a-9c6bb814059b" width = "280" height = "170">
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?height=100&size=50&color=c1a9fc&duration=2750&lines=Hey+there!😉;I+am+Jun+Wei)](https://git.io/typing-svg)
+
+<h3 align = "center">I am currently a Year 1 Cybersecurity student, studying in NP</h3></br>
+
 <div align = "center">
   <a href="mailto:jwtan0402@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -10,10 +14,6 @@
     <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
   </a>
 </div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?height=100&size=50&color=c1a9fc&duration=2750&lines=Hey+there!😉;I+am+Jun+Wei)](https://git.io/typing-svg)
-
-<h3 align = "center">I am currently a Year 1 Cybersecurity student</h3>
 </br></br></br>
 
 <h1 align = "center">$ ls skills_tools</h1></br>
