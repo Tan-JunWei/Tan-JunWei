@@ -1,4 +1,8 @@
 <div align = "center">
+  <img src="https://github.com/Tan-JunWei/Tan-JunWei/assets/154392299/fc88d3ee-d2ba-475b-8f4a-9c6bb814059b" width = "280" height = "170">
+</div>
+
+<div align = "center">
   <a href="mailto:jwtan0402@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -12,7 +16,7 @@
 <h3 align = "center">I am currently a Year 1 Cybersecurity student</h3>
 </br></br></br>
 
-<h1 align = "center">ls skills_tools</h1>
+<h1 align = "center">$ ls skills_tools</h1></br>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -23,5 +27,7 @@
 
 
 
+
+<h1 align='center'>$ ls stats</h1></br>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tan-junwei&theme=react)](https://github.com/tan-junwei/github-readme-stats) [![My GitHub Language Stats](https://github-readme-alpha-five.vercel.app/api/top-langs/?username=tan-junwei&theme=react)](https://github-readme-alpha-five.vercel.app/api/top-langs/?username=tan-junwei-t)
