@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,vscode,kali,ubuntu,linux,git,github,obsidian,figma,photoshop"
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,vscode,kali,ubuntu,linux,powershell,git,github,notion,obsidian,figma,photoshop"
   </a>
 </div></br>
 
@@ -32,14 +32,18 @@
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=tan-junwei&theme=react">
-    <img src="https://github-readme-stats.vercel.app/api?username=tan-junwei&theme=react" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=tan-junwei&theme=react" />
   </a>
-  <a href="https://github-readme-alpha-five.vercel.app/api/top-langs/?username=tan-junwei&theme=react">
-    <img src="https://github-readme-alpha-five.vercel.app/api/top-langs/?username=tan-junwei&theme=react" />
+  <a href="https://github-readme-alpha-five.vercel.app/api/top-langs/?username=tan-junwei&layout=compact&theme=react">
+    <img height=200 src="https://github-readme-alpha-five.vercel.app/api/top-langs/?username=tan-junwei&layout=compact&theme=react" />
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Tan-JunWei&theme=react&hide_border=false">
+    <img height = 200 src="https://github-readme-streak-stats.herokuapp.com/?user=Tan-JunWei&theme=react&hide_border=false"/>
   </a>
 </div>
 
 <!--
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tan-junwei&theme=material-palenight)](https://github-readme-stats.vercel.app/api?username=tan-junwei&theme=react) 
 [![My GitHub Language Stats](https://github-readme-alpha-five.vercel.app/api/top-langs/?username=tan-junwei&theme=material-palenight)](https://github-readme-alpha-five.vercel.app/api/top-langs/?username=tan-junwei)
+![Tan-JunWei's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tan-JunWei&theme=react&hide_border=false)
 -->
